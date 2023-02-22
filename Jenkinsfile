@@ -1,6 +1,5 @@
 pipeline {
     agent any
-
     stages {
        stage('Stage1_22053098') {
            steps {
